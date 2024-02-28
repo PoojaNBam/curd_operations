@@ -1,6 +1,6 @@
 # curd_operations
 CURD operations 
-Splash Screen
+1.Splash Screen
 2. List All Product
 3. Detail of product
 4. Search for product
